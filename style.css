@@ -1,0 +1,10 @@
+.banner{
+    background-color: red;
+    width: 100%;
+    height: 30px; 
+}
+.banner h1{
+    text-align: center;
+    padding: 300px;
+    font-size: 40px;
+}
